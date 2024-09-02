@@ -39,3 +39,4 @@ To crawl multiple URL and check for broken links, use:
 ```sh
 python link_checker_crawler.py -u subdomains.txt
 ```
+## Inspired from `https://github.com/MayankPandey01/BrokenLinkHijacker`
