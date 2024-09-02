@@ -1,3 +1,5 @@
+# This Tool is made for educational purposes. Use at your own risk.
+
 # Link Checker and Crawler
 
 This Python script is designed to crawl a website, check for broken links, and report HTTP errors. It supports both single URLs and lists of subdomains.
