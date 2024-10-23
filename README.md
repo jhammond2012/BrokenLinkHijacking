@@ -16,7 +16,7 @@ This Python script is designed to crawl a website, check for broken links, and r
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/ya3raj/BrokenLinkHijacking.git
-    cd link-checker-crawler
+    cd BrokenLinkHijacking
     ```
 
 2. **Install dependencies**:
